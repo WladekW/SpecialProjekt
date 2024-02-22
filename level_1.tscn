@@ -1,0 +1,16 @@
+[gd_scene load_steps=2 format=3 uid="uid://08xeefcp06gd"]
+
+[ext_resource type="Texture2D" uid="uid://c8xodre37jbt" path="res://icon.svg" id="1_0sctu"]
+
+[node name="Level_1" type="Node2D"]
+
+[node name="TileMap" type="TileMap" parent="."]
+format = 2
+
+[node name="Icon" type="Sprite2D" parent="."]
+position = Vector2(438, 183)
+texture = ExtResource("1_0sctu")
+
+[node name="Icon2" type="Sprite2D" parent="."]
+position = Vector2(583, 183)
+texture = ExtResource("1_0sctu")
