@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://cmsm55xd5dt2y"]
+
+[node name="Menu" type="Node2D"]
+
+[node name="Button" type="Button" parent="."]
+offset_right = 1151.0
+offset_bottom = 237.0
+text = "Buuttoonn"
